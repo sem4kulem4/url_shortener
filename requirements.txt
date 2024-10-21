@@ -1,0 +1,8 @@
+fastapi[standard]~=0.113.0
+pydantic-settings==2.4.0
+SQLAlchemy==2.0.34
+alembic==1.13.2
+asyncpg==0.29.0
+python-dotenv~=1.0.1
+psycopg2-binary==2.9.9
+
